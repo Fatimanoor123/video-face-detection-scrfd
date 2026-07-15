@@ -53,6 +53,7 @@ pip install matplotlib
 ## Sample Output
 - Input  → any video with human faces
 - Output → same video with green boxes around every detected face and red dots on facial landmarks
+<img width="879" height="493" alt="image" src="https://github.com/user-attachments/assets/ca9680fd-1066-44b6-a701-2c44ef06a808" />
 
 ## Author
 Fatima
