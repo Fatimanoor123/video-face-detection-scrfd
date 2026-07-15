@@ -66,4 +66,4 @@ Research Assistant
 - [OpenCV](https://opencv.org/)
 
 ## Related Projects
-- [face-detection-scrfd](https://github.com/fatima-noor-ai/face-detection-scrfd) → Face detection on images using SCRFD
+- [face-detection-scrfd]([https://github.com/fatima-noor-ai/face-detection-scrfd](https://github.com/Fatimanoor123/Face-Detection-SCRFD)) → Face detection on images using SCRFD
